@@ -2,7 +2,7 @@
 
 **Open-source CMS & web platform.**
 
-Build websites — and the platforms behind them.
+Build websites and the platforms behind them.
 
 Webteic combines visual website building, content, members and organisations, events, memberships, commerce and first-party modules in one integrated system.
 
