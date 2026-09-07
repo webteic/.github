@@ -10,13 +10,12 @@ Webteic combines visual website building, content, members and organisations, ev
 
 ## Community and support
 
-[Community Discussions](https://github.com/orgs/webteic/discussions)
+* [GitHub Discussions](https://github.com/orgs/webteic/discussions) — official, detailed and searchable support, installation help, feature requests and longer-form discussions.
+* [Discord Community](https://discord.gg/yYueSFNdzK) — live conversation, development chat, project sharing and informal peer-to-peer help.
+* [Read the documentation](https://webteic.com/docs/home)
+* [Explore the live demo](https://webteic.com/demo)
+* [Visit Webteic](https://webteic.com)
 
-[Read the Documentation](https://webteic.com/docs/home)
-
-[Explore the Live Demo](https://webteic.com/demo)
-
-[Visit Webteic](https://webteic.com)
 
 ## Community guidelines
 
