@@ -8,4 +8,13 @@ Webteic combines visual website building, content, members and organisations, ev
 
 **Webteic v1.0 is currently being prepared for public release.**
 
+## Community and support
+
+[Community Discussions](https://github.com/orgs/webteic/discussions)
+
+[Read the Documentation](https://webteic.com/docs/home)
+
+[Explore the Live Demo](https://webteic.com/demo)
+
 [Visit Webteic](https://webteic.com)
+
