@@ -18,3 +18,6 @@ Webteic combines visual website building, content, members and organisations, ev
 
 [Visit Webteic](https://webteic.com)
 
+## Community guidelines
+
+Before participating, please review our [Support Policy](https://github.com/webteic/.github/blob/main/SUPPORT.md) and [Code of Conduct](https://github.com/webteic/.github/blob/main/CODE_OF_CONDUCT.md).
